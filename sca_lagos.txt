@@ -1,0 +1,8 @@
+AWS Configure
+AWS Access Key ID [****************FQE4]:
+AWS Secret Access Key [****************1qNU]:
+Default region name [us-east-1]:
+Default output format [json]:
+
+aws s3 ls
+2024-06-13 22:27:44 anabelemekene
